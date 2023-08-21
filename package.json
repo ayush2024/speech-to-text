@@ -1,4 +1,5 @@
 {
+  "homepage": "http://ayush_2024.github.io/repo",
   "name": "speechtotext",
   "version": "0.1.0",
   "private": true,
@@ -9,12 +10,15 @@
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",
+    "gh": "^2.8.9",
     "react-scripts": "5.0.1",
     "react-speech-recognition": "^3.10.0",
     "react-use-clipboard": "^1.0.9",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
