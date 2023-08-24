@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.f0659255.css",
-    "main.js": "/repo/static/js/main.5289b8bc.js",
-    "index.html": "/repo/index.html",
-    "main.f0659255.css.map": "/repo/static/css/main.f0659255.css.map",
-    "main.5289b8bc.js.map": "/repo/static/js/main.5289b8bc.js.map"
+    "main.css": "/speech-to-text/static/css/main.f0659255.css",
+    "main.js": "/speech-to-text/static/js/main.5289b8bc.js",
+    "index.html": "/speech-to-text/index.html",
+    "main.f0659255.css.map": "/speech-to-text/static/css/main.f0659255.css.map",
+    "main.5289b8bc.js.map": "/speech-to-text/static/js/main.5289b8bc.js.map"
   },
   "entrypoints": [
     "static/css/main.f0659255.css",
